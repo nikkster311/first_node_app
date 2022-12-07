@@ -4,7 +4,7 @@
   "description": "This is my first attempt at a node app with express. It will be a CRUD app, where users can write their names and some other things, and then add to it or come back later and display what was written before.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
